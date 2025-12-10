@@ -36,6 +36,7 @@ output/*.jpeg
 output/*.png
 !handwritten_test/
 !Output/
+!Output/preprocessed_*
 
 # Environment variables
 .env
