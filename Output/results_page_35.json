@@ -1,0 +1,24 @@
+{
+  "filename": "page_35.jpg",
+  "preprocessing": {
+    "output_image": "D:\\Ass\\output\\preprocessed_page_35.jpg"
+  },
+  "ocr": {
+    "raw_text": ". a ee mw\n5 cs, & E 3,02 * mi\nI a ; @ : a\n; a ~ g : a O zon _\u00ae\nFr a : 8 a Ue eo)\n| ; a O Eee\na c SG . Foss ~=9\n| ds e| is & sa0eP\n. ee - re tb Sai. ez | oR ZoptEw\ni $ \u00b0 OO Remeans\n3 | we hl Bm Ze\n) ; Sig) es fy voecem\n| \u2018 t t | n Faas i >~ZzyneZ\nSp Mm Bae \u00b0\n| (als ee ee\n' \u2018S we Mle c o eae)\nj ned i> lo a z mae & ua =: xo ee o68e\n~ , ots e we LS be foc 4 [ine it ioe\nbo 8 Be J sey Poe z, 3 \"SE gy\n| = \u2014t c \u00e9 2: >\n. - . < ne? Cc\n| - ber 7 2 pets wef! 5 8 2:\ner os \u00a9 $s 2, % ef a se)\n< o F 3 Af el D\n' ~ \u00ab \u201c . je) os\n~gbii@ be. > SFE sho): 8\n, i 2 A C o\u00a3 | ZwIee| \u00b0 > |:\n=> cot : | A nS wn P :\n| g & & eo |Se\u00b0 Ry * ae E\na on - _ 2 LO wae ee ee eee -\nPo\n\u2014\u2014\u2014\u2014\n>is 2 a os Si\nSea mi \u00ae _\ntp 2 aye \u2019 fore) we aoa .\nnee: PE Oe 3 | EF =\nM5 M5 ae-ae 2 BEES) a Ss =\n\u201cp79 aeoP hf fF SB Df st Eg S\nae % CP BF Sez al op =\nMy! om c a a oh ao m\n\u201cEEG sedge Cum)\naa: gypl\u00e9]. sz =\n: E SIPs] +R sno _-\n~ Zz a m . a Mm\n. = a 2 Yu : Zo 0 fara\na TZ SP _ 9 Peeps 2\na i zo 2\u00b0628\neen YO om 2\u00b0 Bb 2oseh\n: : . a . cs) c \u00b0 \u2018' fea 8 \u201d\n| -  \u2018ceenpeee EP 8l.) 4) BEEZ\n| pRPAV a fe fe z & 5 By oSCsm\n| $22: 8 6 2 role) SPs BS8S\n2583 27 & \u00a3 a2) S Bo sabse\n! a ae oF ZelS | << Ps e2eG\nma 2 \u00a2 os es \u2014 fee\n. ra 2p ~~ 2 Q = fm : = = Or\n. S z <| 3 S52\" @\nr > D ~ a * 2 Oo aa) S <i\n. ee Fwe Fe >; am My x it ~ > w\u201d\n;\u2014 \u2014 nt ae ge  ?, an ps =x\nNA n\n",
+    "cleaned_text": ". a ee mw 5 cs, & E 3,02 * mi I a ; @ : a ; a ~ g : a O zon _\u00ae Fr a : 8 a Ue eo) | ; a O Eee a c SG . Foss ~=9 | ds e| is & sa0eP . ee - re tb Sai. ez | oR ZoptEw i $ \u00b0 OO Remeans 3 | we hl Bm Ze ) ; Sig) es fy voecem | \u2018 t t | n Faas i >~ZzyneZ Sp Mm Bae \u00b0 | (als ee ee ' \u2018S we Mle c o eae) j ned i> lo a z mae & ua =: xo ee o68e ~ , ots e we LS be foc 4 [ine it ioe bo 8 Be J sey Poe z, 3 \"SE gy | = \u2014t c \u00e9 2: > . - . < ne? Cc | - ber 7 2 pets wef! 5 8 2: er os \u00a9 $s 2, % ef a se) < o F 3 Af el D ' ~ \u00ab \u201c . je) os ~gbii@ be. > SFE sho): 8 , i 2 A C o\u00a3 | ZwIee| \u00b0 > |: => cot : | A nS wn P : | g & & eo |Se\u00b0 Ry * ae E a on - _ 2 LO wae ee ee eee - Po \u2014\u2014\u2014\u2014 >is 2 a os Si Sea mi \u00ae _ tp 2 aye \u2019 fore) we aoa . nee: PE Oe 3 | EF = M5 M5 ae-ae 2 BEES) a Ss = \u201cp79 aeoP hf fF SB Df st Eg S ae % CP BF Sez al op = My! om c a a oh ao m \u201cEEG sedge Cum) aa: gypl\u00e9]. sz = : E SIPs] +R sno _- ~ Zz a m . a Mm . = a 2 Yu : Zo 0 fara a TZ SP _ 9 Peeps 2 a i zo 2\u00b0628 een YO om 2\u00b0 Bb 2oseh : : . a . cs) c \u00b0 \u2018' fea 8 \u201d | - \u2018ceenpeee EP 8l.) 4) BEEZ | pRPAV a fe fe z & 5 By oSCsm | $22: 8 6 2 role) SPs BS8S 2583 27 & \u00a3 a2) S Bo sabse ! a ae oF ZelS | << Ps e2eG ma 2 \u00a2 os es \u2014 fee . ra 2p ~~ 2 Q = fm : = = Or . S z <| 3 S52\" @ r > D ~ a * 2 Oo aa) S <i . ee Fwe Fe >; am My x it ~ > w\u201d ;\u2014 \u2014 nt ae ge ?, an ps =x NA n",
+    "character_count": 1304,
+    "word_count": 448
+  },
+  "pii_detection": {
+    "pii_found": {
+      "phone": [
+        "5 8 2",
+        "2583 27",
+        "8 6 2",
+        "628"
+      ]
+    },
+    "redacted_text": ". a ee mw 5 cs, & E 3,02 * mi I a ; @ : a ; a ~ g : a O zon _\u00ae Fr a : 8 a Ue eo) | ; a O Eee a c SG . Foss ~=9 | ds e| is & sa0eP . ee - re tb Sai. ez | oR ZoptEw i $ \u00b0 OO Remeans 3 | we hl Bm Ze ) ; Sig) es fy voecem | \u2018 t t | n Faas i >~ZzyneZ Sp Mm Bae \u00b0 | (als ee ee ' \u2018S we Mle c o eae) j ned i> lo a z mae & ua =: xo ee o68e ~ , ots e we LS be foc 4 [ine it ioe bo 8 Be J sey Poe z, 3 \"SE gy | = \u2014t c \u00e9 2: > . - . < ne? Cc | - ber 7 2 pets wef! [REDACTED_PHONE]: er os \u00a9 $s 2, % ef a se) < o F 3 Af el D ' ~ \u00ab \u201c . je) os ~gbii@ be. > SFE sho): 8 , i 2 A C o\u00a3 | ZwIee| \u00b0 > |: => cot : | A nS wn P : | g & & eo |Se\u00b0 Ry * ae E a on - _ 2 LO wae ee ee eee - Po \u2014\u2014\u2014\u2014 >is 2 a os Si Sea mi \u00ae _ tp 2 aye \u2019 fore) we aoa . nee: PE Oe 3 | EF = M5 M5 ae-ae 2 BEES) a Ss = \u201cp79 aeoP hf fF SB Df st Eg S ae % CP BF Sez al op = My! om c a a oh ao m \u201cEEG sedge Cum) aa: gypl\u00e9]. sz = : E SIPs] +R sno _- ~ Zz a m . a Mm . = a 2 Yu : Zo 0 fara a TZ SP _ 9 Peeps 2 a i zo 2\u00b0[REDACTED_PHONE] een YO om 2\u00b0 Bb 2oseh : : . a . cs) c \u00b0 \u2018' fea 8 \u201d | - \u2018ceenpeee EP 8l.) 4) BEEZ | pRPAV a fe fe z & 5 By oSCsm | $22: [REDACTED_PHONE] role) SPs BS8S [REDACTED_PHONE] & \u00a3 a2) S Bo sabse ! a ae oF ZelS | << Ps e2eG ma 2 \u00a2 os es \u2014 fee . ra 2p ~~ 2 Q = fm : = = Or . S z <| 3 S52\" @ r > D ~ a * 2 Oo aa) S <i . ee Fwe Fe >; am My x it ~ > w\u201d ;\u2014 \u2014 nt ae ge ?, an ps =x NA n",
+    "has_pii": true
+  }
+}

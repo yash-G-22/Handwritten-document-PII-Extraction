@@ -1,0 +1,24 @@
+{
+  "filename": "page_30.jpg",
+  "preprocessing": {
+    "output_image": "D:\\Ass\\output\\preprocessed_page_30.jpg"
+  },
+  "ocr": {
+    "raw_text": "oon - Upp - af\n| Sex rar\n| \\ \u201cye . a\naH = eS Tel] \u00ae e\n| 5 z g st\n$ 2 | da g\n' o~\nx g 8 m\n; = iS = as z Fy\n| c\n8 s och 3\nin De Tm0 PY S ~ g 3\naes d Se 2 35 458 bP\n\\ a \u00a2 \u00a3 oC \u00a9 z| 8\n| \u201c2S io) g Z \u00ae a\n| se ie) 9\n1 > & nn = 8\nEee | |i 3 BE Shs\na.\n|\nSE eS \u00b0\n| oa \u2014_ a Be] 0 el Me j\n~ 2 py ls eo [mae |\n~ \\2 x Zz & ha i\n* \\ $s mio 2 ay. e\nai we a Zz ay yo |\n| 2a RS @ | r\n\u2018 . LP:\n| 2a eas \\s Re r |g) Dee &\n, le zo} rl gl aE a\nKe RF Ren - bo |\nAS ._*% So Periseg\niz gS 22 )3 =\u201d BSS 529\n| > tk Ss SPQ ios m Zo Eu\n\u2014 SE ide o\n=] 23 SD yo S| |* 2 Ss 23S oO ae\n= So Nas \u00b0 . x ia wON ~ 1 \u201cCc go Mm\n. Paes ro\nSD \u2014 | 3 5 \u201cSy -2:\u00b0 Boi ga Zz\n| fo oep Te, levi . 3 2  Egeges\n, > os sy 3 x BA eg te ca vu saea hh\nFOS 8 ~ 28 22 . Bgez2e\n: peg 5 RES eee > bee\n3 ig z ty \u2018 S z oO \u2018 4 ee no\n~ , 2 es ~~ a w oS 4 B : s FP \u00a2\u20ac\n| \u00bb 2 2 2 pA we Ft 3 m | so 2 2\n| os S~\u2014 > = ww 2 | we | Bs FE \u00b0\n",
+    "cleaned_text": "oon - Upp - af | Sex rar | \\ \u201cye . a aH = eS Tel] \u00ae e | 5 z g st $ 2 | da g ' o~ x g 8 m ; = iS = as z Fy | c 8 s och 3 in De Tm0 PY S ~ g 3 aes d Se 2 35 458 bP \\ a \u00a2 \u00a3 oC \u00a9 z| 8 | \u201c2S io) g Z \u00ae a | se ie) 9 1 > & nn = 8 Eee | |i 3 BE Shs a. | SE eS \u00b0 | oa \u2014_ a Be] 0 el Me j ~ 2 py ls eo [mae | ~ \\2 x Zz & ha i * \\ $s mio 2 ay. e ai we a Zz ay yo | | 2a RS @ | r \u2018 . LP: | 2a eas \\s Re r |g) Dee & , le zo} rl gl aE a Ke RF Ren - bo | AS ._*% So Periseg iz gS 22 )3 =\u201d BSS 529 | > tk Ss SPQ ios m Zo Eu \u2014 SE ide o =] 23 SD yo S| |* 2 Ss 23S oO ae = So Nas \u00b0 . x ia wON ~ 1 \u201cCc go Mm . Paes ro SD \u2014 | 3 5 \u201cSy -2:\u00b0 Boi ga Zz | fo oep Te, levi . 3 2 Egeges , > os sy 3 x BA eg te ca vu saea hh FOS 8 ~ 28 22 . Bgez2e : peg 5 RES eee > bee 3 ig z ty \u2018 S z oO \u2018 4 ee no ~ , 2 es ~~ a w oS 4 B : s FP \u00a2\u20ac | \u00bb 2 2 2 pA we Ft 3 m | so 2 2 | os S~\u2014 > = ww 2 | we | Bs FE \u00b0",
+    "character_count": 865,
+    "word_count": 317
+  },
+  "pii_detection": {
+    "pii_found": {
+      "phone": [
+        "2 35 458",
+        "529",
+        "2 2 2",
+        "28 22"
+      ]
+    },
+    "redacted_text": "oon - Upp - af | Sex rar | \\ \u201cye . a aH = eS Tel] \u00ae e | 5 z g st $ 2 | da g ' o~ x g 8 m ; = iS = as z Fy | c 8 s och 3 in De Tm0 PY S ~ g 3 aes d Se [REDACTED_PHONE] bP \\ a \u00a2 \u00a3 oC \u00a9 z| 8 | \u201c2S io) g Z \u00ae a | se ie) 9 1 > & nn = 8 Eee | |i 3 BE Shs a. | SE eS \u00b0 | oa \u2014_ a Be] 0 el Me j ~ 2 py ls eo [mae | ~ \\2 x Zz & ha i * \\ $s mio 2 ay. e ai we a Zz ay yo | | 2a RS @ | r \u2018 . LP: | 2a eas \\s Re r |g) Dee & , le zo} rl gl aE a Ke RF Ren - bo | AS ._*% So Periseg iz gS 22 )3 =\u201d BSS [REDACTED_PHONE] | > tk Ss SPQ ios m Zo Eu \u2014 SE ide o =] 23 SD yo S| |* 2 Ss 23S oO ae = So Nas \u00b0 . x ia wON ~ 1 \u201cCc go Mm . Paes ro SD \u2014 | 3 5 \u201cSy -2:\u00b0 Boi ga Zz | fo oep Te, levi . 3 2 Egeges , > os sy 3 x BA eg te ca vu saea hh FOS 8 ~ [REDACTED_PHONE] . Bgez2e : peg 5 RES eee > bee 3 ig z ty \u2018 S z oO \u2018 4 ee no ~ , 2 es ~~ a w oS 4 B : s FP \u00a2\u20ac | \u00bb [REDACTED_PHONE] pA we Ft 3 m | so 2 2 | os S~\u2014 > = ww 2 | we | Bs FE \u00b0",
+    "has_pii": true
+  }
+}

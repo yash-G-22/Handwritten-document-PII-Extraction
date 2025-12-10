@@ -1,0 +1,22 @@
+{
+  "filename": "page_14.jpg",
+  "preprocessing": {
+    "output_image": "D:\\Ass\\output\\preprocessed_page_14.jpg"
+  },
+  "ocr": {
+    "raw_text": "COCCI TT gE a\nat FTA Patt a\nree CREED REL ICR LRT er ot TT | TE LT\nTTP IC Ree TT et\nPCCRRC ACCEPT |S Ee CRT LTP LE al\nPt Tt a Tae CMT TE) | EL g. ] -\u2014\u2014\u2014\u2014\u2014\u2014_\nPCCP SCUTT EE ILC LTT TPIT TT LT ets \u2014\nCOE PELs EL SuetLa BRGAcED\nCOCOCO ECE WEE EE EEE WEE\nPUTT ETE\n6 oa\nSSS Bol | [a Fle 5 he 82 912 me SiS |S 2] Fa\nSF si Flsal eels Foal? Sih i|\u2014wale = 7 \u2014_\u2014_\u2014_\u2014_\u2014>\nOL c : Q = ERS) e. > 2 a) ~% e)\n\u2014\u2014\u2014 gat 36 ae . \u00a7 \u00a35 Bele eH PER z3 \u00a3112 g =| \u2014O\u2014\u2014<\u2014<<\u2014<\u2014\n== ah Se z H & : dee & AEE A \u201cIHS \u00e9s  *1/Z aie \u2014_\u2014_\u2014_\u2014_\u2014\u2014EE\u2014\n| | ALT att settee eee \u2014\u2014\u2014\u2014\u2014\u2014\nHOY |e\n| eet | ET pelt | BL [ Febreeil | tT | | ol | | el\nOW te Rear b> by < 'S\n",
+    "cleaned_text": "COCCI TT gE a at FTA Patt a ree CREED REL ICR LRT er ot TT | TE LT TTP IC Ree TT et PCCRRC ACCEPT |S Ee CRT LTP LE al Pt Tt a Tae CMT TE) | EL g. ] -\u2014\u2014\u2014\u2014\u2014\u2014_ PCCP SCUTT EE ILC LTT TPIT TT LT ets \u2014 COE PELs EL SuetLa BRGAcED COCOCO ECE WEE EE EEE WEE PUTT ETE 6 oa SSS Bol | [a Fle 5 he 82 912 me SiS |S 2] Fa SF si Flsal eels Foal? Sih i|\u2014wale = 7 \u2014_\u2014_\u2014_\u2014_\u2014> OL c : Q = ERS) e. > 2 a) ~% e) \u2014\u2014\u2014 gat 36 ae . \u00a7 \u00a35 Bele eH PER z3 \u00a3112 g =| \u2014O\u2014\u2014<\u2014<<\u2014<\u2014 == ah Se z H & : dee & AEE A \u201cIHS \u00e9s *1/Z aie \u2014_\u2014_\u2014_\u2014_\u2014\u2014EE\u2014 | | ALT att settee eee \u2014\u2014\u2014\u2014\u2014\u2014 HOY |e | eet | ET pelt | BL [ Febreeil | tT | | ol | | el OW te Rear b> by < 'S",
+    "character_count": 617,
+    "word_count": 168
+  },
+  "pii_detection": {
+    "pii_found": {
+      "phone": [
+        "112",
+        "82 912"
+      ]
+    },
+    "redacted_text": "COCCI TT gE a at FTA Patt a ree CREED REL ICR LRT er ot TT | TE LT TTP IC Ree TT et PCCRRC ACCEPT |S Ee CRT LTP LE al Pt Tt a Tae CMT TE) | EL g. ] -\u2014\u2014\u2014\u2014\u2014\u2014_ PCCP SCUTT EE ILC LTT TPIT TT LT ets \u2014 COE PELs EL SuetLa BRGAcED COCOCO ECE WEE EE EEE WEE PUTT ETE 6 oa SSS Bol | [a Fle 5 he [REDACTED_PHONE] me SiS |S 2] Fa SF si Flsal eels Foal? Sih i|\u2014wale = 7 \u2014_\u2014_\u2014_\u2014_\u2014> OL c : Q = ERS) e. > 2 a) ~% e) \u2014\u2014\u2014 gat 36 ae . \u00a7 \u00a35 Bele eH PER z3 \u00a3[REDACTED_PHONE] g =| \u2014O\u2014\u2014<\u2014<<\u2014<\u2014 == ah Se z H & : dee & AEE A \u201cIHS \u00e9s *1/Z aie \u2014_\u2014_\u2014_\u2014_\u2014\u2014EE\u2014 | | ALT att settee eee \u2014\u2014\u2014\u2014\u2014\u2014 HOY |e | eet | ET pelt | BL [ Febreeil | tT | | ol | | el OW te Rear b> by < 'S",
+    "has_pii": true
+  }
+}

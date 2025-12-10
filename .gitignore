@@ -30,10 +30,12 @@ ENV/
 *.swo
 
 # Project specific
-output/
-*.jpg
-*.jpeg
-*.png
+# Keep output directory but ignore cache files
+output/*.jpg
+output/*.jpeg
+output/*.png
+!handwritten_test/
+!Output/
 
 # Environment variables
 .env
